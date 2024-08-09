@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "divinex-426101",
+  "private_key_id": "c2e1c418942dadf7745b088b307a8e34e701859f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDK/YKmPuzMVmRI\nfn9xQ/Q/IVu4DWPTgCasAUA1RTTYtPSPvJ1U/MHQ4LJUdO4TT2uivJ4A1Q76YJqN\nK2C8TunsMfwSMdzS2G4uc0B3Qu4uMK8YR4kWGDNQyq7Gi2MTBdGjxOVAyBzBmr+v\nQOrrQcP3OB/kEa1vTjAIHznxNSBThfiP9mLU+x8d3Tw6t9T6I7HG2v6jHa/j1LD/\nkPaL9oq5/uT4geP0W/LgTZ0fXTsj8yALKcJBguCkvmupm75OAlddNORNwM7IFijy\nqgi7KhI7ywzvR1AyJxSilqgVmj99caCyyD43+IhU5KHC75tpIgqnj1F3CdY0bd3f\nuNIeb0RbAgMBAAECggEAOvTPbe6Hwz9yR/XpmOGWPoG3TGkjLcoiMUH5vp8XnrtL\n7rVm8siomDyyvsHpZdVi2zSyJWa8P28wZEENixPWcCICZtxxmRGASuBxgFIBsIu2\nRzR7td2YheYgRg003NELVuf4d8zHQVnrQ4D02hhTTOnRpWGXAGVyoOFE6HA4L9mM\ncPZ4mFs27rJnfgW4Mda1yb23CF9KrWTbbu+9hzWnuBD0GniqWDEQOZA8XgaDzPOP\n/NoU+aJUfP5hjBA8WlRpxtgfEbUz9qeo+QVMl5pK9D10xKu7S7NA2syaGNxVoHfk\nQgYDWZ8Fv/1AA+53Os2A8+Q2awzf9K+TlspyrG9+VQKBgQDk6+CYE6uYIOC8avuG\nWTNGheH6gDrw+J/4MO0KciEX0bFTdx4nDLyVYjoQhpLgZSTHqF0ISkTTmtqmf3M2\nQ0U1k8NrKKCGwONFwg5BAbNlN8EX8lO3wJ9XKx3BlDEBgT6z5P0rsqZg9up0WoSr\n2YRuCU2xzUkwsp/Ywp5xWL2RbQKBgQDjAGUz0P0DHpCKG50MUrFOfIoaZn2lobSL\nyCYSPmLsMJ4L5sX0IR6OVqg34hVzZfZIninwWglcnsuFRlLx3dkqYKQobns/95pK\nV+IonUFbAHFCutd5ONBkbNWgtE+N4F2MpkaSaHQrL8CMFpe4O90tIcZDS/eE+POL\n4/oPVqlX5wKBgQCTSUhJ0G4ZBR5TXCnUuNOKzl0kxRgnLnAOSbxZejDcmGgVIZDe\n4wz6uCZPt6YMhkbxxtuEl/RMiVegxGOmSAXhgN68tXkC+lu/6Ckvnh6EQykTdTB0\nC5T5ip4sjGIza6qiJ/TUBq+Rt4wFrK+rudnAym+YtFIg6Ox7lExI9SWSyQKBgBcV\n7jTj1ydfD2IMRt9+9Ws+/SiMLdEPbfYdR8npMFRG6XvaX11hlOLy6y6rvnS69N4T\nv74i2friZ15JdZwFbNWDeI5oFf6+ZqGS6Hwq6f+gPuSDbfB1F7Ru4Rbz33dVTw5D\nxr+TAeV2eMWGcq2Y4Ph7C9fCPQz36ITcjYzLynMXAoGACzTPo4zUwlh6nbSXbMlj\nGbtpHKl2GgVEZ54uIiyVBiQXXakI60eiXjiEIuKoi+v5d7kUBfYUGLv7hFWQg/4A\nVr9gW8bkhejifDAAZ6VB3wKEapZBrRl6vNZ3ScNkeT+DmmaQiiQRLTT19DJk5K52\ndpyRy8+yy2uX1g9aG7afY3g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "divinex@divinex-426101.iam.gserviceaccount.com",
+  "client_id": "115285931556475250333",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/divinex%40divinex-426101.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
