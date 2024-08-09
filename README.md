@@ -25,3 +25,6 @@ Las ramas se fusionan rápidamente en main tras las pruebas y revisiones de cód
 ## 🧪 Pruebas
 * **Automatización de Pruebas:** Configura y mantén un conjunto robusto de pruebas automatizadas que se ejecuten en cada commit.
 * **Pruebas en main:** Las pruebas deben ser lo suficientemente exhaustivas para detectar errores antes de que lleguen a producción.
+  
+## Imagen de flujo de referencia
+![image](https://github.com/user-attachments/assets/cf7e44c9-39ed-4bd3-84f6-5cda616a092b)
